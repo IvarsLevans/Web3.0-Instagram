@@ -10,7 +10,7 @@ This decentralized social media platform utilizes the power of blockchain techno
 - [React](https://reactjs.org/)
 - [Next.js](https://nextjs.org/)
 - [Truffle](https://trufflesuite.com/truffle/)
-- [Truffle](https://trufflesuite.com/ganache/)
+- [Ganache](https://trufflesuite.com/ganache/)
 - [Solidity](https://soliditylang.org/)
 
 ## Deployment
