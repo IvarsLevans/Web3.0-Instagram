@@ -4,7 +4,7 @@
 ![Screenshot (482)](https://user-images.githubusercontent.com/78017471/221431120-4dc3e665-863d-43c7-87b7-f23eceeb3ed2.png)
 
 ## Description
-This is a demo project showcasing how to build a decentralized social media platform using Web 3.0 technologies such as Infura, Next.js, React, and Solidity.
+This decentralized social media platform utilizes the power of blockchain technology to create a transparent, secure, and censorship-resistant environment for sharing photos and connecting with like-minded individuals.
 
 ## Technology Stack
 - [React](https://reactjs.org/)
